@@ -7,20 +7,6 @@
 </p>
 
 ---
-
-### 💫 About Me
-
-I'm a passionate AI developer from **Pakistan 🇵🇰**, actively seeking **junior AI/ML engineering roles** (internships or entry-level). I build intelligent, agentic systems that solve real-world problems.
-
-- 🎯 **My focus:** Multi-agent architectures · RAG pipelines · LLM integration · Document intelligence
-- 🔭 **Featured project:** [CodeOracle AI](https://github.com/AyeshaJavaid676/agentic_assistant) – A multi-agent assistant with 5 specialized agents + vision understanding + real-time web search
-- 🌱 **Currently exploring:** Agentic workflows · Fine-tuning small LLMs · Productionizing RAG systems
-- 💬 **Ask me about:** Building multi-agent systems · Document QA pipelines · LLM orchestration
-- ⚡ **Fun fact:** I believe the future of AI is agentic, collaborative, and multimodal – and I'm building towards that every day!
-- 📫 **Let's connect:** I'm open to collaborations, internships, or entry-level positions.
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -34,13 +20,9 @@ I'm a passionate AI developer from **Pakistan 🇵🇰**, actively seeking **jun
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite" />
 </div>
@@ -49,8 +31,12 @@ I'm a passionate AI developer from **Pakistan 🇵🇰**, actively seeking **jun
 
 <div align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/CrewAI-FF6B4A?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/ChromaDB-00A98F?style=for-the-badge&logo=chroma&logoColor=white" alt="ChromaDB" />
   <img src="https://img.shields.io/badge/FAISS-00A98F?style=for-the-badge&logo=facebook&logoColor=white" alt="FAISS" />
   <img src="https://img.shields.io/badge/Groq-FF6B4A?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
@@ -59,6 +45,42 @@ I'm a passionate AI developer from **Pakistan 🇵🇰**, actively seeking **jun
 </div>
 
 ---
+### 📊 GitHub Stats
+
+<div align="center">
+  
+  <!-- Main Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaJavaid676&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaJavaid676&theme=dracula&hide_border=false" height="170" />
+  
+  <!-- Language Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaJavaid676&theme=dracula&hide_border=false&layout=compact" height="170" />
+  
+  <!-- Contribution Graph (Shows daily activity) -->
+  <img src="https://ghchart.rshah.org/AyeshaJavaid676" alt="Contribution Graph" width="100%" />
+  
+  <!-- Activity Metrics -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyeshaJavaid676&theme=dracula" width="100%" />
+  
+  <!-- Time Stats -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyeshaJavaid676&theme=dracula&hide_border=false" width="100%" />
+  
+</div>
+
+---
+### 💫 About Me
+
+I'm a passionate AI developer from **Pakistan 🇵🇰**, actively seeking **junior AI/ML engineering roles** (internships or entry-level). I build intelligent, agentic systems that solve real-world problems.
+
+- 🎯 **My focus:** Multi-agent architectures · RAG pipelines · LLM integration · Document intelligence
+- 🔭 **Featured project:** [CodeOracle AI](https://github.com/AyeshaJavaid676/agentic_assistant) – A multi-agent assistant with 5 specialized agents + vision understanding + real-time web search
+- 🌱 **Currently exploring:** Agentic workflows · Fine-tuning small LLMs · Productionizing RAG systems
+- 💬 **Ask me about:** Building multi-agent systems · Document QA pipelines · LLM orchestration
+- ⚡ **Fun fact:** I believe the future of AI is agentic, collaborative, and multimodal – and I'm building towards that every day!
+- 📫 **Let's connect:** I'm open to collaborations, internships, or entry-level positions.
+
+---
+
 
 ### 🚀 Featured Project: CodeOracle AI
 
@@ -76,19 +98,8 @@ I'm a passionate AI developer from **Pakistan 🇵🇰**, actively seeking **jun
 
 ---
 
-### 📊 GitHub Stats
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyeshaJavaid676&theme=dracula" height="150">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyeshaJavaid676&theme=dracula" height="150">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyeshaJavaid676&theme=dracula" height="150">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyeshaJavaid676&theme=dracula&utcOffset=5" height="150">
-</div>
 
 
----
 
 
 
