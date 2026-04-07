@@ -123,7 +123,7 @@ I'm a passionate AI developer from **Pakistan 🇵🇰**, actively seeking **jun
 </div>
 
 ---
-
+<!--
 ### 📈 Contribution Graph
 
 <picture>
@@ -133,7 +133,7 @@ I'm a passionate AI developer from **Pakistan 🇵🇰**, actively seeking **jun
 </picture>
 
 ---
-
+-->
 ### ✍️ Random Dev Quote
 
 <div align="center">
@@ -141,12 +141,13 @@ I'm a passionate AI developer from **Pakistan 🇵🇰**, actively seeking **jun
 </div>
 
 ---
-
+<!--
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=AyeshaJavaid676&icon=0&color=6" alt="visit count" />
 </div>
 
 ---
+-->
 
 <!-- 
   🚀 I'm actively looking for junior AI/ML roles! 
