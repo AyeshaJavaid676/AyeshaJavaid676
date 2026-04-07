@@ -78,19 +78,24 @@ I'm a passionate AI developer from **Pakistan 🇵🇰**, actively seeking **jun
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaJavaid676&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="160" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=AyeshaJavaid676&theme=dracula&hide_border=false" height="160" alt="streak" />
-</div>
-
-<br>
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaJavaid676&theme=dracula&hide_border=false&layout=compact" height="160" alt="top langs" />
-  <img src="https://github-profile-trophy.vercel.app/?username=AyeshaJavaid676&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=4" height="160" alt="trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyeshaJavaid676&theme=dracula" height="150">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyeshaJavaid676&theme=dracula" height="150">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyeshaJavaid676&theme=dracula" height="150">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyeshaJavaid676&theme=dracula&utcOffset=5" height="150">
 </div>
+
 
 ---
+
+
+
+
+
+
+
 
 ### 🌐 Connect With Me
 
