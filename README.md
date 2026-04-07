@@ -92,7 +92,7 @@ I'm a passionate AI developer from **Pakistan 🇵🇰**, actively seeking **jun
 
 <p align="center">
   <a href="https://github.com/AyeshaJavaid676/agentic_assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyeshaJavaid676&repo=agentic_assistant&theme=dracula&show_owner=true" />
+    <img src="https://img.shields.io/badge/CodeOracle%20AI-Multi--Agent%20RAG%20System-blue?style=for-the-badge&logo=github" />
   </a>
 </p>
 
